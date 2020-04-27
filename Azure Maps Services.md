@@ -3,7 +3,7 @@ Azure Maps is a collection of geospatial services that use fresh mapping data to
 Services in Azure Maps: 
 Azure Maps consists of the following nine services that can provide geographic context to your Azure applications.
 
-* Data Service                                      
+* Data Service                                   
 * Mobility Service
 * Render Service                                    
 * Route Service 
@@ -12,3 +12,5 @@ Azure Maps consists of the following nine services that can provide geographic c
 * Time Zone Service                                 
 * Traffic Service
 * IP to Location Service
+
+
