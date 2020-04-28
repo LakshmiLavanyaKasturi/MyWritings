@@ -1,16 +1,14 @@
+# Azure Maps
+
+## Creating an Azure Portal and Signing into the portal
+
 Azure Maps is a collection of geospatial services that use fresh mapping data to provide geographic context to web and mobile applications
 
-Services in Azure Maps: 
-Azure Maps consists of the following nine services that can provide geographic context to your Azure applications.
+Create a [free Account](https://azure.microsoft.com/free/?WT.mc_id=A261C142F)
+Sign in to the [Azure Portal]https://portal.azure.com/)
 
-* Data Service                                   
-* Mobility Service
-* Render Service                                    
-* Route Service 
-* Search Service                                    
-* Spatial Operations Service
-* Time Zone Service                                 
-* Traffic Service
-* IP to Location Service
+#### Create Azure maps account by following steps below:
+
+
 
 
