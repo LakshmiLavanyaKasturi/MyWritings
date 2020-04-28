@@ -18,11 +18,13 @@ Sign in to the [Azure Portal](https://portal.azure.com/)
     
      #### Account details:
       **Name**: Enter account name. 
-      The account name contains invalid character(s). First character must be alphanumeric. Subsequent character(s) must be any combination of alphanumeric, underscore (_), period (.), or hyphen (-).
+      The account name contains invalid character(s). First character must be alphanumeric. Subsequent character(s) must be any combination of alphanumeric, underscore (_), period (.), or hyphen (-).  
       **Pricing Tier**: Select from the dropdown. 
                         
- 4. Read the _License_ and _Privacy Statement_, and check the checkbox to accept the terms.
+ 4. Read the _License_ and _Privacy Statement_, and check the _checkbox_ to accept the terms.
  5. Click the _Create_ button.
+ 
+ 
  
     
     
