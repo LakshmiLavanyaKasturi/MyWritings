@@ -13,14 +13,14 @@ Sign in to the [Azure Portal](https://portal.azure.com/)
 2. In the "Search the Market place" search box type _Azure Maps_.
 3. Create Azure maps account by entering _product details_ and _account details_.
   ###### Product details:
-    Subscription - Select from the dropdown. 
-    Resource Group - create new/select from the dropdown. 
+   Subscription - Select from the dropdown. 
+   Resource Group - create new/select from the dropdown. 
     
   ###### Account details:
-     Name: Enter account name. 
+   Name: Enter account name. 
             The account name contains invalid character(s). First character must be alphanumeric. Subsequent character(s) must be any combination of alphanumeric, underscore (_), period (.), or hyphen (-).
             
-    Pricing Tier: Select from the dropdown. 
+   Pricing Tier: Select from the dropdown. 
                         
  4. Read the _License_ and _Privacy Statement_, and check the checkbox to accept the terms.
  5. Click the _Create_ button.
