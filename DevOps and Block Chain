@@ -1,12 +1,8 @@
-Dev Ops is integration of Dev team and operations team to deliver the project efficiently to Client. 
+# Block Chain Technology and Dev Ops. How they make a good pair. 
 
-Advantages:
-Human Errors reduction
-Quick bug fixing ( automated )
-Stable work environment. 
-
-Block Chain Technology:  A secure way of managing and recording transactions, agreements and contracts
-
+## Block Chain Technology: 
+A Technology in which blocks are arranged in a chronological order to help store and collect data.It is secure way of managing and recording transactions, agreements and contracts
+It holds batches of time stamped and encrypted transactions. 
 It has 3 pain parts of a block. 
 1. Data (Eg: To, from and amount in a transaction). 
 2. Hash (finger print)
@@ -15,3 +11,20 @@ It has 3 pain parts of a block.
 Advantages:
 Increase transparency
 Reduce infrastructure costs. 
+
+Dev Ops is integration of Dev team and operations team to deliver the project efficiently to Client. 
+
+Advantages:
+Human Errors reduction
+Quick bug fixing ( automated )
+Stable work environment. 
+
+| Dev Ops                                                 |   Block Chain                                                          |
+|---------------------------------------------------------|------------------------------------------------------------------------|
+| It is a practice in the software industry               | It is a Technology to provide solutions for digital currencies.        |
+|                                                         | It is a secured data trasaction process.                               |
+
+
+
+
+
