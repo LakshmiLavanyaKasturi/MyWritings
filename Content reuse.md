@@ -4,11 +4,6 @@ Content reuse refers to using the content over and over in any documnetation. Th
 
 The best way to explain content reuse is using structured content. The structured content conforms to a predefined standard that makes it understandable for systems and applications. Structured content is divided into blocks of data called component or topic. These components give a unique meaning to the content. A component is reused in the documentation by referencing with a link. 
 
-For example, there is a reused component in the documentation. 
-
-This is the most reused content in the documentation. I don’t want to copy paste this content in the documentation but refer this content with a link.
-
-
 Usage of adding a reference link: 
 
 For more information about adding reference links, refer to [how to write links in the documentation](https://docs.microsoft.com/en-us/contribute/how-to-write-links)
