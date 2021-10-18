@@ -1,4 +1,4 @@
-My contributions to the Azure digital twins project are:
+My contributions to the Azure digital twins project include:
 
 [Azure digital twins overview](https://docs.microsoft.com/en-us/azure/digital-twins/overview)
 
