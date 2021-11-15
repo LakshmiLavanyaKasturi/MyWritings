@@ -1,4 +1,4 @@
-# Find needles in a Hay Stack
+# Problem: Find needles in a Hay Stack
 
 This article helps you find number of needles in a hay stack (a packed pile of hay, typically with a pointed or ridged top). 
 
