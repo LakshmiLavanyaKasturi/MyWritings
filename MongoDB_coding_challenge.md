@@ -63,3 +63,6 @@ This will save a document into the foo collection. Nothing will be printed until
 To retrieve the document, run the following command and again press return:
 
 `get foo ff36cf3a-fd3b-431e-863e-5dc89d4f075e`
+
+
+Here is the [link](https://github.com/LakshmiLavanyaKasturi/Learnings/blob/master/giza-installation-Mongodb.txt) to set up an environment to push changes to MongoDB and attempt a coding challenge.
