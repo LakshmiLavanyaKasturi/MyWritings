@@ -1,6 +1,6 @@
 # MongoDB - Coding Challenge
 
-Here is the [link](https://github.com/LakshmiLavanyaKasturi/docs-coding-challenge) to the coding challenge by MongoDB.
+I am trying to attempt a coding challenge by MongoDB. Here is the [link](https://github.com/LakshmiLavanyaKasturi/docs-coding-challenge) to the coding challenge by MongoDB.
 
 Hopps is a simple document history-preserving key-value store built on top of [MongoDB](https://www.mongodb.com/) and [Python](https://www.python.org/).
 
