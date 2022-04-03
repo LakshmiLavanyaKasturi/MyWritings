@@ -1,4 +1,6 @@
-# Bitcoin:
+# Bitcoin
+
+Bitcoin is an electronic currency based on blockchain technology and cryptography. 
 
 Bitcoin is invented to solve the following global financial issues.
   - Inequality in the society.
