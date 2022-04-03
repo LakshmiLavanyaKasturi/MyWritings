@@ -16,10 +16,7 @@ Then later cash money started by govt to easily divide and to have a free flow o
 
 ## Invention of Bitcoin:
 
-Bitcoins are created using Bitcoin mining. Computational resources are used to efficiently mine the bitcoins.
+Bitcoins are created with the process of mining which is most popularly called as Bitcoin mining. Computational resources are used to efficiently mine the bitcoins.
 
-This is a combination of traditional block chain, consesus model, cryptography. 
-
-What next?
-
+This is a combination of traditional block chain, consesus model and cryptography. 
 
