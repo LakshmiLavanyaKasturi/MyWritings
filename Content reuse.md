@@ -6,7 +6,7 @@ The best way to explain content reuse is using structured content. The structure
 
 Usage of adding a reference link: 
 
-For more information about adding reference links, refer to [how to write links in the documentation](https://docs.microsoft.com/en-us/contribute/how-to-write-links)
+For more information about adding reference links, refer [how to write links in the documentation](https://docs.microsoft.com/en-us/contribute/how-to-write-links)
 
 
 
