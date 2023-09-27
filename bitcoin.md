@@ -9,7 +9,7 @@ Bitcoin is invented to solve the following global financial issues.
 
 Bitcoin is based on distributed ledger and consesus protocol.
 
-## Traditional system:
+## Traditional System:
 
 Earlier, there used to be gold mines where gold coins were generated and used by people around the world to meet their daily needs.
 Gold cannot be divided into pieces. 
