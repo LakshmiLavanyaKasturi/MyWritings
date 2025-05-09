@@ -65,5 +65,6 @@ STATUS CODES:
 * 4XX - Client Error
 * 5XX - Server Error
 
- 
+### Conclusion
+This document helped you understanding the RestAPI methods. To learn more, visit [REST API's](https://www.ibm.com/think/topics/rest-apis).
  
